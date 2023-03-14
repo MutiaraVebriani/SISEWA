@@ -50,7 +50,7 @@
       transition-duration: 0.4s;
           color: black !important;
     }
-    li:hover {
+    nav li:hover {
     background-color: blue !important;
     color: black !important;
     }
